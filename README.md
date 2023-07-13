@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=HELLO%21&fontAlign=70&fontAlignY=15&fontSize=40&desc=I%27m%20Park%20Sang%20Eun&descAlign=70&descAlignY=35&descSize=20&rotate=15)
+![header](https://capsule-render.vercel.app/api?color=gradient&type=slice&height=200&text=HELLO%21&fontAlign=70&fontAlignY=15&fontSize=40&desc=I%27m%20Park%20Sang%20Eun&descAlign=70&descAlignY=35&descSize=20&rotate=15)
 
 
 
@@ -47,5 +47,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Psangeun&layout=compact)](https://github.com/delay-100/github-readme-stats)
 
-
-![footer](https://capsule-render.vercel.app/api?type=slice&section=footer&color=auto&height=200&text=Thank%20You%21&fontAlign=20&fontAlignY=95&fontSize=40&rotate=15)
+![footer](https://capsule-render.vercel.app/api?color=gradient&type=slice&section=footer&height=200&text=Thank%20You%21&fontAlign=20&fontAlignY=95&fontSize=40&rotate=15)
