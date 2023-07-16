@@ -40,6 +40,9 @@
 
 ## More...
 <div style="display:flex; flex-direction:row;">
+    <a href="https://career.programmers.co.kr/job_profiles/public_setting">
+        <img src="https://img.shields.io/badge/Programmers-000000?style=flat&logo=&logoColor=white" /> 
+    </a>
 <!--     <a href="https://www.notion.so/PARK-SANG-EUN-b51608ee3ee04b3786824e03abf421f6?pvs=4">
       <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" /> 
     </a> -->
